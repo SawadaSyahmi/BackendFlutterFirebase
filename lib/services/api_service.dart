@@ -2,7 +2,7 @@
 
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:mysql_backend/models/user.dart';
+import 'package:backendFlutterFirebase/models/user.dart';
 
 class ApiService {
   static const String baseUrl = 'http://127.0.0.1:3306 ';

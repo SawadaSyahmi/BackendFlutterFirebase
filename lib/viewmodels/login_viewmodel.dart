@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mysql_backend/models/user.dart';
-import 'package:mysql_backend/services/api_service.dart';
+import 'package:backendFlutterFirebase/models/user.dart';
+import 'package:backendFlutterFirebase/services/api_service.dart';
 
 class LoginViewModel extends ChangeNotifier {
   final ApiService _apiService = ApiService();

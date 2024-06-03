@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mysql_backend/services/api_service.dart';
+import 'package:backendFlutterFirebase/services/api_service.dart';
 
 class EditProfileViewModel extends ChangeNotifier {
   final ApiService _apiService = ApiService();

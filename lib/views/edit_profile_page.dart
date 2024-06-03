@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mysql_backend/models/user.dart';
-import 'package:mysql_backend/viewmodels/edit_profile_viewmodel.dart';
+import 'package:backendFlutterFirebase/models/user.dart';
+import 'package:backendFlutterFirebase/viewmodels/edit_profile_viewmodel.dart';
 import 'package:provider/provider.dart';
 
 class EditProfilePage extends StatelessWidget {

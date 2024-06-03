@@ -1,7 +1,7 @@
 // ignore_for_file: depend_on_referenced_packages
 
 import 'package:flutter/material.dart';
-import 'package:mysql_backend/viewmodels/profile_viewmodel.dart';
+import 'package:backendFlutterFirebase/viewmodels/profile_viewmodel.dart';
 import 'package:provider/provider.dart';
 import 'edit_profile_page.dart';
 

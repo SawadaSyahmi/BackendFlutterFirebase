@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mysql_backend/viewmodels/login_viewmodel.dart';
-import 'package:mysql_backend/views/login_page.dart';
+import 'package:backendFlutterFirebase/viewmodels/login_viewmodel.dart';
+import 'package:backendFlutterFirebase/views/login_page.dart';
 import 'package:provider/provider.dart';
 
 void main() {
